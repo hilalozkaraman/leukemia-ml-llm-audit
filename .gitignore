@@ -1,0 +1,14 @@
+data/
+data
+data_golub/
+*.zip
+*.gz
+
+outputs/
+eda_outputs/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
